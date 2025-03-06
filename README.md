@@ -14,8 +14,8 @@ Register Here: https://magicnewton.com/portal?referral=histbd5887vd4mkx
 - Clone Repository
 
 ```bash
-git clone https://github.com/Not-D4rkCipherX/MagicNewton.git
-cd MagicNewton
+git clone https://github.com/bilalrai12/Magic-.git
+cd Magic-
 ```
 
 - Install Dependency
